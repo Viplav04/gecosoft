@@ -1,0 +1,2 @@
+C:\Users\Viplav\source\repos\server\ProductsApp\obj\Debug\ProductsApp.csprojAssemblyReference.cache
+C:\Users\Viplav\source\repos\server\ProductsApp\obj\Debug\ProductsApp.csproj.CoreCompileInputs.cache
